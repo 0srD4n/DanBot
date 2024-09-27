@@ -5,9 +5,9 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/PikaBotz/Anya_v2-MD anya-v2
+RUN git clone https://github.com/0srD4n/DanBot Dantca
 
-WORKDIR /anya-v2
+WORKDIR /Dantca
 
 RUN yarn install --production
 
