@@ -1,0 +1,14 @@
+Author=0srD4n
+BotName=Dantca
+Cooldown_Timer_Seconds=2
+Footer=Dantca
+GcLink=ada
+Insta=dantca_
+MongoDB=ongodb+srv://osama841:hiaWLxrsPfMeFt9Y@cluster0.ez7bw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+Owner_Name=0srD4n
+Owner_Number=62895809077766
+Port=8080
+Prefix=.
+SESSION_ID=MjF5MXI_AN_YA+qOHY=
+Warn_Limits=2
+
